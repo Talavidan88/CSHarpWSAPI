@@ -1,0 +1,13 @@
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\bin\Debug\CSharp End Proj WS API Tests.dll
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\bin\Debug\CSharp End Proj WS API Tests.pdb
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\bin\Debug\CSharp End Proj WS API.exe
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\bin\Debug\Facebook.dll
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\bin\Debug\CSharp End Proj WS API.pdb
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\bin\Debug\Facebook.xml
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\obj\Debug\CSharp End Proj WS API Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\obj\Debug\CSharp End Proj WS API Tests.dll
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API Tests\obj\Debug\CSharp End Proj WS API Tests.pdb

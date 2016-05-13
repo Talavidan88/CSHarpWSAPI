@@ -1,0 +1,24 @@
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\CSharp End Proj WS API TestProject.exe.config
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\CSharp End Proj WS API TestProject.exe
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\CSharp End Proj WS API TestProject.pdb
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\CSharp End Proj WS API.dll
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\Facebook.dll
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\CSharp End Proj WS API.pdb
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\Facebook.xml
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\obj\Debug\CSharp End Proj WS API TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\obj\Debug\CSharp End Proj WS API TestProject.exe
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API TestProject\obj\Debug\CSharp End Proj WS API TestProject.pdb
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\CSharp End Proj WS API TestProject.exe.config
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\obj\Debug\CSharp End Proj WS API TestProject.exe
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\obj\Debug\CSharp End Proj WS API TestProject.pdb
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\CSharp End Proj WS API TestProject.exe
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\CSharp End Proj WS API TestProject.pdb
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\CSharp End Proj WS API.dll
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\Facebook.dll
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\CSharp End Proj WS API.pdb
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\Facebook.xml
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tal\Desktop\CSharp End Proj WS API\CSharp End Proj WS API TestProject\obj\Debug\CSharp End Proj WS API TestProject.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API\bin\Debug\CSharp End Proj WS API.pdb
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API\bin\Debug\Facebook.dll
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API\bin\Debug\Facebook.xml
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API\obj\Debug\CSharp End Proj WS API.pdb
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API\bin\Debug\CSharp End Proj WS API.dll.config
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API\bin\Debug\CSharp End Proj WS API.dll
+C:\Users\Tal\Documents\Visual Studio 2015\Projects\SoftwareEngineering\Shenkar4\CSharp End Proj WS API\CSharp End Proj WS API\obj\Debug\CSharp End Proj WS API.dll
