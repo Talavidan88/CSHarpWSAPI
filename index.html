@@ -35,57 +35,114 @@
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
         </div>
 
-        <h3>
-<a id="shenkar-c-end-project---rest-ws-api" class="anchor" href="#shenkar-c-end-project---rest-ws-api" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Shenkar C# End Project - REST WS API.</h3>
+        <h2>
+<a id="shenkar-c-end-project---rest-ws-api" class="anchor" href="#shenkar-c-end-project---rest-ws-api" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Shenkar C# End Project - REST WS API.</h2>
 
 <p>Our project was to build a a C# REST WS library. we choose to use two RESTful API's. Openweathermap, and Facebook!
 With our API you can easily get weather data about a location. with our Facebook API you can view your information, Post And Delete a post</p>
 
-<h3>
-<a id="usage-and-licensing" class="anchor" href="#usage-and-licensing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Usage And Licensing</h3>
+<h2>
+<a id="usage-and-licensing" class="anchor" href="#usage-and-licensing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Usage And Licensing</h2>
 
 <p>We believe in open source! our entire source code is free to use.
 If you decide to use our library instad, make sure to add Facebook and Newtonsoft json packages.
 our API is very easy to use.</p>
 
-<h2>
-<a id="to-use-openweathermap-api" class="anchor" href="#to-use-openweathermap-api" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>To Use OpenWeatherMap API</h2>
+<h3>
+<a id="to-use-openweathermap-api" class="anchor" href="#to-use-openweathermap-api" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>To Use OpenWeatherMap API</h3>
 
-<p>in order to get weather data, simply create a new service
-<code>IDataService weather = DataServiceFactory.GetDataService(DataServices.OPEN_WEATHER_MAP);</code> 
-To get data back simply use
-<code>weather.GetWeatherData(new Location((int)location id, (string)location name,(string)location country,(coords)coordinates - lat and lon);</code>
-you can only  only insert one parameter to this function.
-<code>weather.GetWeatherData(new Location(0,"RamatGan");</code></p>
+<p>in order to get weather data, simply create a new service</p>
 
-<h2>
-<a id="to-use-facebook-api" class="anchor" href="#to-use-facebook-api" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>To Use Facebook API</h2>
+<hr>
 
-<p>Create a new service
-<code>facebook = DataServiceFactory.GetDataService(DataServices.FACEBOOK);</code>
-Authenticate
-<code>facebook.Authenticate();</code>
-You can get Data by using one of the three functions:
-to get user details FBUserDetails
-<code>facebook.GetUserDetails();</code>
-to get user likes Dictionary object - Key is page's name.
-<code>facebook.GetUserLikes();</code>
-to get user events Dictionary object - Key is event's name.
-<code>facebook.GetUserEvents();</code></p>
+<p><code>IDataService weather = DataServiceFactory.GetDataService(DataServices.OPEN_WEATHER_MAP);</code> </p>
 
-<p>In order to post simply use:
-<code>facebook.Post(string Message to post);</code>
-This meathod returns the post id.
-to delete:
-<code>facebook.Delete(string Post ID);</code></p>
+<hr>
+
+<p>To get data back simply use</p>
+
+<hr>
+
+<p><code>weather.GetWeatherData(new Location((int)location id, (string)location name,(string)location country,(coords)coordinates - lat and lon);</code></p>
+
+<hr>
+
+<p>you can only  only insert one parameter to this function.</p>
+
+<hr>
+
+<p><code>weather.GetWeatherData(new Location(0,"RamatGan");</code></p>
+
+<hr>
 
 <h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Authors and Contributors</h3>
+<a id="to-use-facebook-api" class="anchor" href="#to-use-facebook-api" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>To Use Facebook API</h3>
+
+<p>Create a new service</p>
+
+<hr>
+
+<p><code>facebook = DataServiceFactory.GetDataService(DataServices.FACEBOOK);</code></p>
+
+<hr>
+
+<p>Authenticate</p>
+
+<hr>
+
+<p><code>facebook.Authenticate();</code></p>
+
+<hr>
+
+<p>You can get Data by using one of the three functions:
+to get user details FBUserDetails</p>
+
+<hr>
+
+<p><code>facebook.GetUserDetails();</code></p>
+
+<hr>
+
+<p>to get user likes Dictionary object - Key is page's name.</p>
+
+<hr>
+
+<p><code>facebook.GetUserLikes();</code></p>
+
+<hr>
+
+<p>to get user events Dictionary object - Key is event's name.</p>
+
+<hr>
+
+<p><code>facebook.GetUserEvents();</code></p>
+
+<hr>
+
+<p>In order to post simply use:</p>
+
+<hr>
+
+<p><code>facebook.Post(string Message to post);</code></p>
+
+<hr>
+
+<p>This meathod returns the post id.
+to delete:</p>
+
+<hr>
+
+<p><code>facebook.Delete(string Post ID);</code></p>
+
+<hr>
+
+<h2>
+<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Authors and Contributors</h2>
 
 <p>Tal Avidan (<a href="https://github.com/talavidan88" class="user-mention">@talavidan88</a>) And Ido Algom (<a href="https://github.com/itorra" class="user-mention">@itorra</a>)</p>
 
-<h3>
-<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
+<h2>
+<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h2>
 
 <p>Having trouble with our API? <a href="ido@algom.cc">contact us</a> and we’ll help you sort it out.</p>
       </section>
